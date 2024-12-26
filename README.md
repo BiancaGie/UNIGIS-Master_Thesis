@@ -1,6 +1,5 @@
 Geodatabase zur UNIGIS-Master Thesis 106902
 
-Beschreibung:
 Die Geodatabase für die UNIGIS-Master Thesis "Ausbau der Ladeinfrastruktur für Elektromobilität in Städten – Eine räumliche Betrachtung zum Beitrag von privatwirtschaftlichen Unternehmen am Beispiel Köln und Düsseldorf" enthält Daten, die durch GIS-Analysen die Rolle von Unternehmen wie TankE GmbH und Stadtwerke Düsseldorf AG (SWD AG) in der Entwicklung der Ladeinfrastruktur untersuchen.  
 
 Mit Hilfe dieser Daten wurden die Operativen Teilziele beantwortet:
